@@ -1,5 +1,6 @@
 # Digital-Music-Store-Analysis
 SQL project to analyze online music store data
+![Database Schema](2 july/MusicDatabaseSchema.png)
 # 🎵 Music Store SQL Analysis
 
 ## 📌 Project Overview
