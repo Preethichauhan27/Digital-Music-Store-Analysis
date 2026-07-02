@@ -36,4 +36,4 @@ Analyzed a music store database using PostgreSQL to solve business-focused analy
 ---
 
 
-├── schema.png
+
