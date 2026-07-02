@@ -1,8 +1,6 @@
 # Digital-Music-Store-Analysis
-![Database Schema](https://raw.githubusercontent.com/Preethichauhan27/Digital-Music-Store-Analysis/refs/heads/main/MusicDatabaseSchema.png)
 SQL project to analyze online music store data
-
-
+![Database Schema](https://raw.githubusercontent.com/Preethichauhan27/Digital-Music-Store-Analysis/refs/heads/main/MusicDatabaseSchema.png)
 # 🎵 Music Store SQL Analysis
 
 ## 📌 Project Overview
